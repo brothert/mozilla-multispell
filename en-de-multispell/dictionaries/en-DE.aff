@@ -1,0 +1,1872 @@
+# Affix file for British English MySpell dictionary
+# Also suitable as basis for Commonwealth and European English.
+# Built from scratch for MySpell. Released under LGPL.
+#
+# David Bartlett, Andrew Brown.
+# R 1.18, 11/04/05
+SET ISO8859-1
+TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
+
+FLAG long
+
+REP 55
+REP f ph
+REP ph f
+REP f gh
+REP f ugh
+REP gh f
+REP ff ugh
+REP uf ough
+REP uff ough
+REP k ch
+REP ch k
+REP dg j
+REP j dg
+REP w ugh
+REP ness ity
+REP leness ility
+REP ness ivity
+REP eness ity
+REP og ogue
+REP ck qu
+REP ck que
+REP eg e.g.
+REP ie i.e.
+REP t ght
+REP ght t
+REP ok OK
+REP ts ce
+REP ce ts
+REP f ph
+REP ph f
+REP ß ss
+REP ss ß
+REP s ss
+REP ss s
+REP i ie
+REP ie i
+REP ee e
+REP o oh
+REP oh o
+REP a ah
+REP ah a
+REP e eh
+REP eh e
+REP ae ä
+REP oe ö
+REP ue ü
+REP Ae Ä
+REP Oe Ö
+REP Ue Ü
+REP d t
+REP t d
+REP th t
+REP t th
+REP r rh
+REP ch k
+REP k ch
+#REP eee ee-E
+
+PFX EA Y 2
+PFX EA 0 re [^e] 
+PFX EA 0 re- e 
+PFX Ea Y 1
+PFX Ea 0 mis . 
+PFX EI Y 4
+PFX EI 0 il l 
+PFX EI 0 ir r 
+PFX EI 0 im [bmp] 
+PFX EI 0 in [^blmpr] 
+PFX Ec Y 1
+PFX Ec 0 over . 
+PFX EU Y 1
+PFX EU 0 un . 
+PFX EC Y 2
+PFX EC 0 de [^e] 
+PFX EC 0 de- e 
+PFX EE Y 1
+PFX EE 0 dis . 
+PFX EF Y 5
+PFX EF 0 com [bmp]
+PFX EF 0 co [aeiouh]
+PFX EF 0 cor r
+PFX EF 0 col l
+PFX EF 0 con [^abehilmopru]. 
+PFX EK Y 1
+PFX EK 0 pre . 
+PFX Ee Y 1
+PFX Ee 0 out . 
+PFX Ef Y 2
+PFX Ef 0 under [^r] 
+PFX Ef 0 under- r 
+PFX EO Y 1
+PFX EO 0 non- . 
+PFX E4 Y 1
+PFX E4 0 trans . 
+SFX EV Y 15
+SFX EV 0 tive [aio] 
+SFX EV b ptive b 
+SFX EV d sive d 
+SFX EV be ptive be 
+SFX EV e tive ce 
+SFX EV de sive de 
+SFX EV ke cative ke 
+SFX EV e ptive me 
+SFX EV e ive [st]e 
+SFX EV e ative [^bcdkmst]e 
+SFX EV 0 lative [aeiou]l 
+SFX EV 0 ative [^aeiou]l 
+SFX EV 0 ive [st] 
+SFX EV y icative y 
+SFX EV 0 ative [^abdeilosty] 
+SFX Ev Y 15
+SFX Ev 0 tively [aio] 
+SFX Ev b ptively b 
+SFX Ev d sively d 
+SFX Ev be ptively be 
+SFX Ev e tively ce 
+SFX Ev de sively de 
+SFX Ev ke catively ke 
+SFX Ev e ptively me 
+SFX Ev e ively [st]e 
+SFX Ev e atively [^bcdkmst]e 
+SFX Ev 0 latively [aeiou]l 
+SFX Ev 0 atively [^aeiou]l 
+SFX Ev 0 ively [st] 
+SFX Ev y icatively y 
+SFX Ev 0 atively [^abdeilosty] 
+SFX Eu Y 15
+SFX Eu 0 tiveness [aio] 
+SFX Eu b ptiveness b 
+SFX Eu d siveness d 
+SFX Eu be ptiveness be 
+SFX Eu e tiveness ce 
+SFX Eu de siveness de 
+SFX Eu ke cativeness ke 
+SFX Eu e ptiveness me 
+SFX Eu e iveness [st]e 
+SFX Eu e ativeness [^bcdkmst]e 
+SFX Eu 0 lativeness [aeiou]l 
+SFX Eu 0 ativeness [^aeiou]l 
+SFX Eu 0 iveness [st] 
+SFX Eu y icativeness y 
+SFX Eu 0 ativeness [^abdeilosty] 
+SFX EN Y 26
+SFX EN b ption b 
+SFX EN d sion d 
+SFX EN be ption be 
+SFX EN e tion ce 
+SFX EN de sion de 
+SFX EN ke cation ke 
+SFX EN e ption ume 
+SFX EN e mation [^u]me 
+SFX EN e ion [^o]se 
+SFX EN e ition ose 
+SFX EN e ation [iou]te 
+SFX EN e ion [^iou]te 
+SFX EN e ation [^bcdkmst]e 
+SFX EN el ulsion el 
+SFX EN 0 lation [aiou]l 
+SFX EN 0 ation [^aeiou]l 
+SFX EN 0 mation [aeiou]m 
+SFX EN 0 ation [^aeiou]m 
+SFX EN er ration er 
+SFX EN 0 ation [^e]r 
+SFX EN 0 ion [sx] 
+SFX EN t ssion mit 
+SFX EN 0 ion [^m]it 
+SFX EN 0 ation [^i]t 
+SFX EN y ication y 
+SFX EN 0 ation [^bdelmrstxy] 
+SFX En Y 28
+SFX En 0 tion a 
+SFX En e tion ce 
+SFX En ke cation ke 
+SFX En e ation [iou]te 
+SFX En e ion [^iou]te 
+SFX En e ation [^ckt]e 
+SFX En el ulsion el 
+SFX En 0 lation [aiou]l 
+SFX En 0 ation [^aeiou]l 
+SFX En er ration er 
+SFX En 0 ation [^e]r 
+SFX En y ation py 
+SFX En y ication [^p]y 
+SFX En 0 ation [^aelry] 
+SFX En 0 tions a 
+SFX En e tions ce 
+SFX En ke cations ke 
+SFX En e ations [iou]te 
+SFX En e ions [^iou]te 
+SFX En e ations [^ckt]e 
+SFX En el ulsions el 
+SFX En 0 lations [aiou]l 
+SFX En 0 ations [^aeiou]l 
+SFX En er rations er 
+SFX En 0 ations [^e]r 
+SFX En y ations py 
+SFX En y ications [^p]y 
+SFX En 0 ations [^aelry] 
+SFX EX Y 26
+SFX EX b ptions b 
+SFX EX d sions d 
+SFX EX be ptions be 
+SFX EX e tions ce 
+SFX EX ke cations ke 
+SFX EX de sions de 
+SFX EX e ptions ume 
+SFX EX e mations [^u]me 
+SFX EX e ions [^o]se 
+SFX EX e itions ose 
+SFX EX e ations [iou]te 
+SFX EX e ions [^iou]te 
+SFX EX e ations [^bcdkmst]e 
+SFX EX el ulsions el 
+SFX EX 0 lations [aiou]l 
+SFX EX 0 ations [^aeiou]l 
+SFX EX 0 mations [aeiou]m 
+SFX EX 0 ations [^aeiou]m 
+SFX EX er rations er 
+SFX EX 0 ations [^e]r 
+SFX EX 0 ions [sx] 
+SFX EX t ssions mit 
+SFX EX 0 ions [^m]it 
+SFX EX 0 ations [^i]t 
+SFX EX y ications y 
+SFX EX 0 ations [^bdelmrstxy] 
+SFX Ex Y 40
+SFX Ex b ptional b 
+SFX Ex d sional d 
+SFX Ex be ptional be 
+SFX Ex e tional ce 
+SFX Ex ke cational ke 
+SFX Ex de sional de 
+SFX Ex e ional [^o]se 
+SFX Ex e itional ose 
+SFX Ex e ional te 
+SFX Ex e ational [^bcdkst]e 
+SFX Ex el ulsional el 
+SFX Ex 0 lational [aiou]l 
+SFX Ex 0 ational [^aeiou]l 
+SFX Ex er rational er 
+SFX Ex 0 ational [^e]r 
+SFX Ex 0 ional [sx] 
+SFX Ex 0 ional [^n]t 
+SFX Ex 0 ational nt 
+SFX Ex y icational y 
+SFX Ex 0 ational [^bdelrstxy] 
+SFX Ex b ptionally b 
+SFX Ex d sionally d 
+SFX Ex be ptionally be 
+SFX Ex e tionally ce 
+SFX Ex ke cationally ke 
+SFX Ex de sionally de 
+SFX Ex e ionally [^o]se 
+SFX Ex e itionally ose 
+SFX Ex e ionally te 
+SFX Ex e ationally [^bcdkst]e 
+SFX Ex el ulsionally el 
+SFX Ex 0 lationally [aiou]l 
+SFX Ex 0 ationally [^aeiou]l 
+SFX Ex er rationally er 
+SFX Ex 0 ationally [^e]r 
+SFX Ex 0 ionally [sx] 
+SFX Ex 0 ionally [^n]t 
+SFX Ex 0 ationally nt 
+SFX Ex y icationally y 
+SFX Ex 0 ationally [^bdelrstxy] 
+SFX EH N 13
+SFX EH y ieth y 
+SFX EH ree ird ree 
+SFX EH ve fth ve 
+SFX EH e th [^ev]e 
+SFX EH 0 h t 
+SFX EH 0 th [^ety] 
+SFX EH y ieths y 
+SFX EH ree irds ree 
+SFX EH ve fths ve 
+SFX EH e ths [^ev]e 
+SFX EH 0 hs t 
+SFX EH 0 ths [^ety] 
+SFX EH 0 fold . 
+SFX EY Y 9
+SFX EY 0 ally ic 
+SFX EY 0 ly [^i]c 
+SFX EY e y [^aeiou]le 
+SFX EY 0 ly [aeiou]le 
+SFX EY 0 ly [^l]e 
+SFX EY 0 y [^aeiou]l 
+SFX EY y ily [^aeiou]y 
+SFX EY 0 ly [aeiou][ly] 
+SFX EY 0 ly [^cely] 
+SFX EG Y 24
+SFX EG e ing [^eioy]e 
+SFX EG 0 ing [eoy]e 
+SFX EG ie ying ie 
+SFX EG 0 bing [^aeio][aeiou]b 
+SFX EG 0 king [^aeio][aeiou]c 
+SFX EG 0 ding [^aeio][aeiou]d 
+SFX EG 0 fing [^aeio][aeiou]f 
+SFX EG 0 ging [^aeio][aeiou]g 
+SFX EG 0 king [^aeio][aeiou]k 
+SFX EG 0 ling [^aeio][eiou]l 
+SFX EG 0 ing [aeio][eiou]l 
+SFX EG 0 ling [^aeo]al 
+SFX EG 0 ing [aeo]al 
+SFX EG 0 ming [^aeio][aeiou]m 
+SFX EG 0 ning [^aeio][aeiou]n 
+SFX EG 0 ping [^aeio][aeiou]p 
+SFX EG 0 ring [^aeio][aeiou]r 
+SFX EG 0 sing [^aeio][aeiou]s 
+SFX EG 0 ting [^aeio][aeiou]t 
+SFX EG 0 ving [^aeio][aeiou]v 
+SFX EG 0 zing [^aeio][aeiou]z 
+SFX EG 0 ing [aeio][aeiou][bcdfgkmnprstvz] 
+SFX EG 0 ing [^aeiou][bcdfgklmnprstvz] 
+SFX EG 0 ing [^ebcdfgklmnprstvz] 
+SFX EJ Y 25
+SFX EJ e ings [^eioy]e 
+SFX EJ 0 ings [eoy]e 
+SFX EJ ie yings ie 
+SFX EJ 0 bings [^aeio][aeiou]b 
+SFX EJ 0 king [^aeio][aeiou]c 
+SFX EJ 0 dings [^aeio][aeiou]d 
+SFX EJ 0 fings [^aeio][aeiou]f 
+SFX EJ 0 gings [^aeio][aeiou]g 
+SFX EJ 0 kings [^aeio][aeiou]k 
+SFX EJ 0 lings [^aeio][eiou]l 
+SFX EJ 0 ings [aeio][eiou]l 
+SFX EJ 0 lings [^aeo]al 
+SFX EJ 0 ings [aeo]al 
+SFX EJ 0 mings [^aeio][aeiou]m 
+SFX EJ 0 nings [^aeio][aiou]n 
+SFX EJ 0 pings [^aeio][aeiou]p 
+SFX EJ 0 rings [^aeio][aiou]r 
+SFX EJ 0 sings [^aeio][aeiou]s 
+SFX EJ 0 tings [^aeio][aiou]t 
+SFX EJ 0 vings [^aeio][aeiou]v 
+SFX EJ 0 zings [^aeio][aeiou]z 
+SFX EJ 0 ings [^aeio]e[nrt] 
+SFX EJ 0 ings [aeio][aeiou][bcdfgkmnprstvz] 
+SFX EJ 0 ings [^aeiou][bcdfgklmnprstvz] 
+SFX EJ 0 ings [^ebcdfgklmnprstvz] 
+SFX Ek Y 8
+SFX Ek e ingly [^eioy]e 
+SFX Ek 0 ingly [eoy]e 
+SFX Ek ie yingly ie 
+SFX Ek 0 kingly [^aeio][aeiou]c 
+SFX Ek 0 lingly [^aeio][aeiou]l 
+SFX Ek 0 ingly [aeio][aeiou][cl] 
+SFX Ek 0 ingly [^aeiou][cl] 
+SFX Ek 0 ingly [^ecl] 
+SFX ED Y 25
+SFX ED 0 d [^e]e 
+SFX ED e d ee 
+SFX ED 0 bed [^aeio][aeiou]b 
+SFX ED 0 ked [^aeio][aeiou]c 
+SFX ED 0 ded [^aeio][aeiou]d 
+SFX ED 0 fed [^aeio][aeiou]f 
+SFX ED 0 ged [^aeio][aeiou]g 
+SFX ED 0 ked [^aeio][aeiou]k 
+SFX ED 0 led [^aeio][eiou]l 
+SFX ED 0 ed [aeio][eiou]l 
+SFX ED 0 led [^aeo]al 
+SFX ED 0 ed [aeo]al 
+SFX ED 0 med [^aeio][aeiou]m 
+SFX ED 0 ned [^aeio][aeiou]n 
+SFX ED 0 ped [^aeio][aeiou]p 
+SFX ED 0 red [^aeio][aeiou]r 
+SFX ED 0 sed [^aeio][aeiou]s 
+SFX ED 0 ted [^aeio][aeiou]t 
+SFX ED 0 ved [^aeio][aeiou]v 
+SFX ED 0 zed [^aeio][aeiou]z 
+SFX ED y ied [^aeiou]y 
+SFX ED 0 ed [aeiou]y 
+SFX ED 0 ed [aeio][aeiou][bcdfgkmnprstvz] 
+SFX ED 0 ed [^aeiou][bcdfgklmnprstvz] 
+SFX ED 0 ed [^ebcdfgklmnprstvyz] 
+SFX Ed Y 16
+SFX Ed 0 d e 
+SFX Ed 0 ked [^aeio][aeiou]c 
+SFX Ed 0 led [^aeio][aeiou]l 
+SFX Ed y ied [^aeiou]y 
+SFX Ed 0 ed [aeiou]y 
+SFX Ed 0 ed [aeio][aeiou][cl] 
+SFX Ed 0 ed [^aeiou][cl] 
+SFX Ed 0 ed [^ecly] 
+SFX Ed e ing [^eioy]e 
+SFX Ed 0 ing [eoy]e 
+SFX Ed ie ying ie 
+SFX Ed 0 king [^aeio][aeiou]c 
+SFX Ed 0 ling [^aeio][aeiou]l 
+SFX Ed 0 ing [aeio][aeiou][cl] 
+SFX Ed 0 ing [^aeiou][cl] 
+SFX Ed 0 ing [^ecl] 
+SFX Eh Y 22
+SFX Eh 0 dly e 
+SFX Eh 0 bedly [^aeio][aeiou]b 
+SFX Eh 0 kedly [^aeio][aeiou]c 
+SFX Eh 0 dedly [^aeio][aeiou]d 
+SFX Eh 0 fedly [^aeio][aeiou]f 
+SFX Eh 0 gedly [^aeio][aeiou]g 
+SFX Eh 0 kedly [^aeio][aeiou]k 
+SFX Eh 0 ledly [^aeio][aeiou]l 
+SFX Eh 0 medly [^aeio][aeiou]m 
+SFX Eh 0 nedly [^aeio][aiou]n 
+SFX Eh 0 pedly [^aeio][aeiou]p 
+SFX Eh 0 redly [^aeio][aiou]r 
+SFX Eh 0 sedly [^aeio][aeiou]s 
+SFX Eh 0 tedly [^aeio][aiou]t 
+SFX Eh 0 vedly [^aeio][aeiou]v 
+SFX Eh 0 zedly [^aeio][aeiou]z 
+SFX Eh 0 edly [^aeio]e[nrt] 
+SFX Eh y iedly [^aeiou]y 
+SFX Eh 0 edly [aeiou]y 
+SFX Eh 0 edly [aeio][aeiou][bcdfgklmnprstvz] 
+SFX Eh 0 edly [^aeiou][bcdfgklmnprstvz] 
+SFX Eh 0 edly [^ebcdfgklmnprstvyz] 
+SFX Ei Y 22
+SFX Ei 0 dness e 
+SFX Ei 0 bedness [^aeio][aeiou]b 
+SFX Ei 0 kedness [^aeio][aeiou]c 
+SFX Ei 0 dedness [^aeio][aeiou]d 
+SFX Ei 0 fedness [^aeio][aeiou]f 
+SFX Ei 0 gedness [^aeio][aeiou]g 
+SFX Ei 0 kedness [^aeio][aeiou]k 
+SFX Ei 0 ledness [^aeio][aeiou]l 
+SFX Ei 0 medness [^aeio][aeiou]m 
+SFX Ei 0 nedness [^aeio][aiou]n 
+SFX Ei 0 pedness [^aeio][aeiou]p 
+SFX Ei 0 redness [^aeio][aiou]r 
+SFX Ei 0 sedness [^aeio][aeiou]s 
+SFX Ei 0 tedness [^aeio][aiou]t 
+SFX Ei 0 vedness [^aeio][aeiou]v 
+SFX Ei 0 zedness [^aeio][aeiou]z 
+SFX Ei 0 edness [^aeio]e[nrt] 
+SFX Ei y iedness [^aeiou]y 
+SFX Ei 0 edness [aeiou]y 
+SFX Ei 0 edness [aeio][aeiou][bcdfgklmnprstvz] 
+SFX Ei 0 edness [^aeiou][bcdfgklmnprstvz] 
+SFX Ei 0 edness [^ebcdfgklmnprstvyz] 
+SFX ET Y 42
+SFX ET 0 r e 
+SFX ET 0 st e
+SFX ET 0 ber [^aeio][aeiou]b 
+SFX ET 0 best [^aeio][aeiou]b
+SFX ET 0 ker [^aeio][aeiou]c 
+SFX ET 0 kest [^aeio][aeiou]c
+SFX ET 0 der [^aeio][aeiou]d 
+SFX ET 0 dest [^aeio][aeiou]d
+SFX ET 0 fer [^aeio][aeiou]f 
+SFX ET 0 fest [^aeio][aeiou]f
+SFX ET 0 ger [^aeio][aeiou]g 
+SFX ET 0 gest [^aeio][aeiou]g
+SFX ET 0 ker [^aeio][aeiou]k 
+SFX ET 0 kest [^aeio][aeiou]k
+SFX ET 0 ler [^aeio][aeiou]l 
+SFX ET 0 lest [^aeio][aeiou]l
+SFX ET 0 mer [^aeio][aeiou]m 
+SFX ET 0 mest [^aeio][aeiou]m
+SFX ET 0 ner [^aeio][aeiou]n 
+SFX ET 0 nest [^aeio][aeiou]n
+SFX ET 0 per [^aeio][aeiou]p 
+SFX ET 0 pest [^aeio][aeiou]p
+SFX ET 0 rer [^aeio][aeiou]r 
+SFX ET 0 rest [^aeio][aeiou]r
+SFX ET 0 ser [^aeio][aeiou]s 
+SFX ET 0 sest [^aeio][aeiou]s
+SFX ET 0 ter [^aeio][aeiou]t 
+SFX ET 0 test [^aeio][aeiou]t
+SFX ET 0 ver [^aeio][aeiou]v 
+SFX ET 0 vest [^aeio][aeiou]v
+SFX ET 0 zer [^aeio][aeiou]z 
+SFX ET 0 zest [^aeio][aeiou]z
+SFX ET y ier [^aeiou]y 
+SFX ET y iest [^aeiou]y
+SFX ET 0 er [aeiou]y 
+SFX ET 0 est [aeiou]y
+SFX ET 0 er [aeio][aeiou][bcdfgklmnprstvz]
+SFX ET 0 er [^aeiou][bcdfgklmnprstvz]
+SFX ET 0 er [^ebcdfgklmnprstvyz]
+SFX ET 0 est [aeio][aeiou][bcdfgklmnprstvz]
+SFX ET 0 est [^aeiou][bcdfgklmnprstvz]
+SFX ET 0 est [^ebcdfgklmnprstvyz]
+SFX ER Y 72
+SFX ER 0 r e 
+SFX ER 0 rs e 
+SFX ER 0 ber [^aeio][aeiou]b 
+SFX ER 0 bers [^aeio][aeiou]b 
+SFX ER 0 ker [^aeio][aeiou]c 
+SFX ER 0 kers [^aeio][aeiou]c 
+SFX ER 0 der [^aeio][aeiou]d 
+SFX ER 0 ders [^aeio][aeiou]d 
+SFX ER 0 fer [^aeio][aeiou]f 
+SFX ER 0 fers [^aeio][aeiou]f 
+SFX ER 0 ger [^aeio][aeiou]g 
+SFX ER 0 gers [^aeio][aeiou]g 
+SFX ER 0 ker [^aeio][aeiou]k 
+SFX ER 0 kers [^aeio][aeiou]k 
+SFX ER 0 ler [^aeio][eiou]l 
+SFX ER 0 er [aeio][eiou]l 
+SFX ER 0 ler [^aeo]al 
+SFX ER 0 er [aeo]al 
+SFX ER 0 lers [^aeio][eiou]l 
+SFX ER 0 ers [aeio][eiou]l 
+SFX ER 0 lers [^aeo]al 
+SFX ER 0 ers [aeo]al 
+SFX ER 0 mer [^aeio][aeiou]m 
+SFX ER 0 mers [^aeio][aeiou]m 
+SFX ER 0 ner [^aeio][aeiou]n 
+SFX ER 0 ners [^aeio][aeiou]n 
+SFX ER 0 per [^aeio][aeiou]p 
+SFX ER 0 pers [^aeio][aeiou]p 
+SFX ER 0 rer [^aeio][aeiou]r 
+SFX ER 0 rers [^aeio][aeiou]r 
+SFX ER 0 ser [^aeio][aeiou]s 
+SFX ER 0 sers [^aeio][aeiou]s 
+SFX ER 0 ter [^aeio][aeiou]t 
+SFX ER 0 ters [^aeio][aeiou]t 
+SFX ER 0 ver [^aeio][aeiou]v 
+SFX ER 0 vers [^aeio][aeiou]v 
+SFX ER 0 zer [^aeio][aeiou]z 
+SFX ER 0 zers [^aeio][aeiou]z 
+SFX ER y ier [^aeiou]y 
+SFX ER y iers [^aeiou]y 
+SFX ER 0 er [aeiou]y 
+SFX ER 0 ers [aeiou]y 
+SFX ER 0 er [aeio][aeiou][bcdfgkmnprstvz] 
+SFX ER 0 ers [aeio][aeiou][bcdfgkmnprstvz] 
+SFX ER 0 er [^aeiou][bcdfgklmnprstvz] 
+SFX ER 0 ers [^aeiou][bcdfgklmnprstvz] 
+SFX ER 0 er [^ebcdfgklmnprstvyz] 
+SFX ER 0 ers [^ebcdfgklmnprstvyz] 
+SFX ER 0 r's e 
+SFX ER 0 ber's [^aeio][aeiou]b 
+SFX ER 0 ker's [^aeio][aeiou]c 
+SFX ER 0 der's [^aeio][aeiou]d 
+SFX ER 0 fer's [^aeio][aeiou]f 
+SFX ER 0 ger's [^aeio][aeiou]g 
+SFX ER 0 ker's [^aeio][aeiou]k 
+SFX ER 0 ler's [^aeio][eiou]l 
+SFX ER 0 er's [aeio][eiou]l 
+SFX ER 0 ler's [^aeo]al 
+SFX ER 0 er's [aeo]al 
+SFX ER 0 mer's [^aeio][aeiou]m 
+SFX ER 0 ner's [^aeio][aeiou]n 
+SFX ER 0 per's [^aeio][aeiou]p 
+SFX ER 0 rer's [^aeio][aeiou]r 
+SFX ER 0 ser's [^aeio][aeiou]s 
+SFX ER 0 ter's [^aeio][aeiou]t 
+SFX ER 0 ver's [^aeio][aeiou]v 
+SFX ER 0 zer's [^aeio][aeiou]z 
+SFX ER y ier's [^aeiou]y 
+SFX ER 0 er's [aeiou]y 
+SFX ER 0 er's [aeio][aeiou][bcdfgkmnprstvz] 
+SFX ER 0 er's [^aeiou][bcdfgklmnprstvz] 
+SFX ER 0 er's [^ebcdfgklmnprstvyz] 
+SFX Er Y 24
+SFX Er 0 r e 
+SFX Er 0 ler [^aeio][aeiou]l 
+SFX Er 0 ker [^aeio][aeiou]c 
+SFX Er y ier [^aeiou]y 
+SFX Er 0 er [aeiou]y 
+SFX Er 0 er [aeio][aeiou][cl] 
+SFX Er 0 er [^aeiou][cl] 
+SFX Er 0 er [^ecly] 
+SFX Er 0 rs e 
+SFX Er 0 lers [^aeio][aeiou]l 
+SFX Er 0 kers [^aeio][aeiou]c 
+SFX Er y iers [^aeiou]y 
+SFX Er 0 ers [aeiou]y 
+SFX Er 0 ers [aeio][aeiou][cl] 
+SFX Er 0 ers [^aeiou][cl] 
+SFX Er 0 ers [^ecly] 
+SFX Er 0 r's e 
+SFX Er 0 ler's [^aeio][aeiou]l 
+SFX Er 0 ker's [^aeio][aeiou]c 
+SFX Er y ier's [^aeiou]y 
+SFX Er 0 er's [aeiou]y 
+SFX Er 0 er's [aeio][aeiou][cl] 
+SFX Er 0 er's [^aeiou][cl] 
+SFX Er 0 er's [^ecly] 
+SFX ES Y 9
+SFX ES y ies [^aeiou]y 
+SFX ES 0 s [aeiou]y 
+SFX ES 0 es [sxz] 
+SFX ES 0 es [cs]h 
+SFX ES 0 s [^cs]h 
+SFX ES 0 s [ae]u 
+SFX ES 0 x [ae]u 
+SFX ES 0 s [^ae]u 
+SFX ES 0 s [^hsuxyz]
+SFX EP Y 6
+SFX EP y iness [^aeiou]y 
+SFX EP 0 ness [aeiou]y 
+SFX EP 0 ness [^y] 
+SFX EP y iness's [^aeiou]y 
+SFX EP 0 ness's [aeiou]y 
+SFX EP 0 ness's [^y] 
+SFX Em Y 20
+SFX Em 0 sman [bdknmt] 
+SFX Em 0 sman [aeiou][bdklmnt]e 
+SFX Em 0 man [^aeiou][bdklmnt]e 
+SFX Em 0 man [^bdklmnt]e 
+SFX Em 0 man [^bdeknmt] 
+SFX Em 0 smen [bdknmt] 
+SFX Em 0 smen [aeiou][bdklmnt]e 
+SFX Em 0 men [^aeiou][bdklmnt]e 
+SFX Em 0 men [^bdklmnt]e 
+SFX Em 0 men [^bdeknmt] 
+SFX Em 0 sman's [bdknmt] 
+SFX Em 0 sman's [aeiou][bdklmnt]e 
+SFX Em 0 man's [^aeiou][bdklmnt]e 
+SFX Em 0 man's [^bdklmnt]e 
+SFX Em 0 man's [^bdeknmt] 
+SFX Em 0 smen's [bdknmt] 
+SFX Em 0 smen's [aeiou][bdklmnt]e 
+SFX Em 0 men's [^aeiou][bdklmnt]e 
+SFX Em 0 men's [^bdklmnt]e 
+SFX Em 0 men's [^bdeknmt] 
+SFX E5 Y 15
+SFX E5 0 swoman [bdknmt] 
+SFX E5 0 swoman [aeiou][bdklmnt]e 
+SFX E5 0 woman [^aeiou][bdklmnt]e 
+SFX E5 0 woman [^bdklmnt]e 
+SFX E5 0 woman [^bdeknmt] 
+SFX E5 0 swomen [bdknmt] 
+SFX E5 0 swomen [aeiou][bdklmnt]e 
+SFX E5 0 women [^aeiou][bdklmnt]e 
+SFX E5 0 women [^bdklmnt]e 
+SFX E5 0 women [^bdeknmt] 
+SFX E5 0 swoman's [bdknmt] 
+SFX E5 0 swoman's [aeiou][bdklmnt]e 
+SFX E5 0 woman's [^aeiou][bdklmnt]e 
+SFX E5 0 woman's [^bdklmnt]e 
+SFX E5 0 woman's [^bdeknmt] 
+SFX E6 Y 3
+SFX E6 y iful [^aeiou]y 
+SFX E6 0 ful [aeiou]y 
+SFX E6 0 ful [^y] 
+SFX Ej Y 3
+SFX Ej y ifully [^aeiou]y 
+SFX Ej 0 fully [aeiou]y 
+SFX Ej 0 fully [^y] 
+SFX Ep Y 5
+SFX Ep y iless [^aeiou]y 
+SFX Ep 0 less [aeiou]y 
+SFX Ep 0 ess ll 
+SFX Ep 0 less [^l]l 
+SFX Ep 0 less [^ly] 
+SFX EQ Y 44
+SFX EQ 0 tise a 
+SFX EQ e ise [^l]e 
+SFX EQ le ilise [^aeiou]le 
+SFX EQ e ise [aeiou]le 
+SFX EQ um ise um 
+SFX EQ 0 ise [^u]m 
+SFX EQ s se is 
+SFX EQ 0 ise [^i]s 
+SFX EQ y ise [^aeiou]y 
+SFX EQ 0 ise [aeiou]y 
+SFX EQ 0 ise [^aemsy] 
+SFX EQ 0 tises a 
+SFX EQ e ises [^l]e 
+SFX EQ le ilises [^aeiou]le 
+SFX EQ e ises [aeiou]le 
+SFX EQ um ises um 
+SFX EQ 0 ises [^u]m 
+SFX EQ s ses is 
+SFX EQ 0 ises [^i]s 
+SFX EQ y ises [^aeiou]y 
+SFX EQ 0 ises [aeiou]y 
+SFX EQ 0 ises [^aemsy] 
+SFX EQ 0 tised a 
+SFX EQ e ised [^l]e 
+SFX EQ le ilised [^aeiou]le 
+SFX EQ e ised [aeiou]le 
+SFX EQ um ised um 
+SFX EQ 0 ised [^u]m 
+SFX EQ s sed is 
+SFX EQ 0 ised [^i]s 
+SFX EQ y ised [^aeiou]y 
+SFX EQ 0 ised [aeiou]y 
+SFX EQ 0 ised [^aemsy] 
+SFX EQ 0 tising a 
+SFX EQ e ising [^l]e 
+SFX EQ le ilising [^aeiou]le 
+SFX EQ e ising [aeiou]le 
+SFX EQ um ising um 
+SFX EQ 0 ising [^u]m 
+SFX EQ s sing is 
+SFX EQ 0 ising [^i]s 
+SFX EQ y ising [^aeiou]y 
+SFX EQ 0 ising [aeiou]y 
+SFX EQ 0 ising [^aemsy] 
+SFX E8 Y 44
+SFX E8 0 tize a 
+SFX E8 e ize [^l]e 
+SFX E8 le ilize [^aeiou]le 
+SFX E8 e ize [aeiou]le 
+SFX E8 um ize um 
+SFX E8 0 ize [^u]m 
+SFX E8 s ze is 
+SFX E8 0 ize [^i]s 
+SFX E8 y ize [^aeiou]y 
+SFX E8 0 ize [aeiou]y 
+SFX E8 0 ize [^aemsy] 
+SFX E8 0 tizes a 
+SFX E8 e izes [^l]e 
+SFX E8 le ilizes [^aeiou]le 
+SFX E8 e izes [aeiou]le 
+SFX E8 um izes um 
+SFX E8 0 izes [^u]m 
+SFX E8 s zes is 
+SFX E8 0 izes [^i]s 
+SFX E8 y izes [^aeiou]y 
+SFX E8 0 izes [aeiou]y 
+SFX E8 0 izes [^aemsy] 
+SFX E8 0 tized a 
+SFX E8 e ized [^l]e 
+SFX E8 le ilized [^aeiou]le 
+SFX E8 e ized [aeiou]le 
+SFX E8 um ized um 
+SFX E8 0 ized [^u]m 
+SFX E8 s zed is 
+SFX E8 0 ized [^i]s 
+SFX E8 y ized [^aeiou]y 
+SFX E8 0 ized [aeiou]y 
+SFX E8 0 ized [^aemsy] 
+SFX E8 0 tizing a 
+SFX E8 e izing [^l]e 
+SFX E8 le ilizing [^aeiou]le 
+SFX E8 e izing [aeiou]le 
+SFX E8 um izing um 
+SFX E8 0 izing [^u]m 
+SFX E8 s zing is 
+SFX E8 0 izing [^i]s 
+SFX E8 y izing [^aeiou]y 
+SFX E8 0 izing [aeiou]y 
+SFX E8 0 izing [^aemsy] 
+SFX Eq Y 22
+SFX Eq 0 tisation a 
+SFX Eq e isation [^l]e 
+SFX Eq le ilisation [^aeiou]le 
+SFX Eq e isation [aeiou]le 
+SFX Eq um isation um 
+SFX Eq 0 isation [^u]m 
+SFX Eq s sation is 
+SFX Eq 0 isation [^i]s 
+SFX Eq y isation [^aeiou]y 
+SFX Eq 0 isation [aeiou]y 
+SFX Eq 0 isation [^aemsy] 
+SFX Eq 0 tisations a 
+SFX Eq e isations [^l]e 
+SFX Eq le ilisations [^aeiou]le 
+SFX Eq e isations [aeiou]le 
+SFX Eq um isations um 
+SFX Eq 0 isations [^u]m 
+SFX Eq s sations is 
+SFX Eq 0 isations [^i]s 
+SFX Eq y isations [^aeiou]y 
+SFX Eq 0 isations [aeiou]y 
+SFX Eq 0 isations [^aemsy] 
+SFX E- Y 22
+SFX E- 0 tization a 
+SFX E- e ization [^l]e 
+SFX E- le ilization [^aeiou]le 
+SFX E- e ization [aeiou]le 
+SFX E- um ization um 
+SFX E- 0 ization [^u]m 
+SFX E- s zation is 
+SFX E- 0 ization [^i]s 
+SFX E- y ization [^aeiou]y 
+SFX E- 0 ization [aeiou]y 
+SFX E- 0 ization [^aemsy] 
+SFX E- 0 tizations a 
+SFX E- e izations [^l]e 
+SFX E- le ilizations [^aeiou]le 
+SFX E- e izations [aeiou]le 
+SFX E- um izations um 
+SFX E- 0 izations [^u]m 
+SFX E- s zations is 
+SFX E- 0 izations [^i]s 
+SFX E- y izations [^aeiou]y 
+SFX E- 0 izations [aeiou]y 
+SFX E- 0 izations [^aemsy] 
+SFX Es Y 33
+SFX Es 0 tiser a 
+SFX Es e iser [^l]e 
+SFX Es le iliser [^aeiou]le 
+SFX Es e iser [aeiou]le 
+SFX Es um iser um 
+SFX Es 0 iser [^u]m 
+SFX Es s ser is 
+SFX Es 0 iser [^i]s 
+SFX Es y iser [^aeiou]y 
+SFX Es 0 iser [aeiou]y 
+SFX Es 0 iser [^aemsy] 
+SFX Es 0 tisers a 
+SFX Es e isers [^l]e 
+SFX Es le ilisers [^aeiou]le 
+SFX Es e isers [aeiou]le 
+SFX Es um isers um 
+SFX Es 0 isers [^u]m 
+SFX Es s sers is 
+SFX Es 0 isers [^i]s 
+SFX Es y isers [^aeiou]y 
+SFX Es 0 isers [aeiou]y 
+SFX Es 0 isers [^aemsy] 
+SFX Es 0 tiser's a 
+SFX Es e iser's [^l]e 
+SFX Es le iliser's [^aeiou]le 
+SFX Es e iser's [aeiou]le 
+SFX Es um iser's um 
+SFX Es 0 iser's [^u]m 
+SFX Es s ser's is 
+SFX Es 0 iser's [^i]s 
+SFX Es y iser's [^aeiou]y 
+SFX Es 0 iser's [aeiou]y 
+SFX Es 0 iser's [^aemsy] 
+SFX E9 Y 33
+SFX E9 0 tizer a 
+SFX E9 e izer [^l]e 
+SFX E9 le ilizer [^aeiou]le 
+SFX E9 e izer [aeiou]le 
+SFX E9 um izer um 
+SFX E9 0 izer [^u]m 
+SFX E9 s zer is 
+SFX E9 0 izer [^i]s 
+SFX E9 y izer [^aeiou]y 
+SFX E9 0 izer [aeiou]y 
+SFX E9 0 izer [^aemsy] 
+SFX E9 0 tizers a 
+SFX E9 e izers [^l]e 
+SFX E9 le ilizers [^aeiou]le 
+SFX E9 e izers [aeiou]le 
+SFX E9 um izers um 
+SFX E9 0 izers [^u]m 
+SFX E9 s zers is 
+SFX E9 0 izers [^i]s 
+SFX E9 y izers [^aeiou]y 
+SFX E9 0 izers [aeiou]y 
+SFX E9 0 izers [^aemsy] 
+SFX E9 0 tizer's a 
+SFX E9 e izer's [^l]e 
+SFX E9 le ilizer's [^aeiou]le 
+SFX E9 e izer's [aeiou]le 
+SFX E9 um izer's um 
+SFX E9 0 izer's [^u]m 
+SFX E9 s zer's is 
+SFX E9 0 izer's [^i]s 
+SFX E9 y izer's [^aeiou]y 
+SFX E9 0 izer's [aeiou]y 
+SFX E9 0 izer's [^aemsy] 
+SFX Et Y 22
+SFX Et 0 tisable a 
+SFX Et e isable [^l]e 
+SFX Et le ilisable [^aeiou]le 
+SFX Et e isable [aeiou]le 
+SFX Et um isable um 
+SFX Et 0 isable [^u]m 
+SFX Et s sable is 
+SFX Et 0 isable [^i]s 
+SFX Et y isable [^aeiou]y 
+SFX Et 0 isable [aeiou]y 
+SFX Et 0 isable [^aemsy] 
+SFX Et 0 tisability a 
+SFX Et e isability [^l]e 
+SFX Et le ilisability [^aeiou]le 
+SFX Et e isability [aeiou]le 
+SFX Et um isability um 
+SFX Et 0 isability [^u]m 
+SFX Et s sability is 
+SFX Et 0 isability [^i]s 
+SFX Et y isability [^aeiou]y 
+SFX Et 0 isability [aeiou]y 
+SFX Et 0 isability [^aemsy] 
+SFX E+ Y 22
+SFX E+ 0 tizable a 
+SFX E+ e izable [^l]e 
+SFX E+ le ilizable [^aeiou]le 
+SFX E+ e izable [aeiou]le 
+SFX E+ um izable um 
+SFX E+ 0 izable [^u]m 
+SFX E+ s zable is 
+SFX E+ 0 izable [^i]s 
+SFX E+ y izable [^aeiou]y 
+SFX E+ 0 izable [aeiou]y 
+SFX E+ 0 izable [^aemsy] 
+SFX E+ 0 tizability a 
+SFX E+ e izability [^l]e 
+SFX E+ le ilizability [^aeiou]le 
+SFX E+ e izability [aeiou]le 
+SFX E+ um izability um 
+SFX E+ 0 izability [^u]m 
+SFX E+ s zability is 
+SFX E+ 0 izability [^i]s 
+SFX E+ y izability [^aeiou]y 
+SFX E+ 0 izability [aeiou]y 
+SFX E+ 0 izability [^aemsy] 
+SFX EM Y 1
+SFX EM 0 's . 
+SFX EB Y 48
+SFX EB e able [^acegilotu]e 
+SFX EB 0 able [acegilou]e 
+SFX EB te ble ate 
+SFX EB e able [^a]te 
+SFX EB 0 bable [^aeio][aeiou]b 
+SFX EB 0 kable [^aeio][aeiou]c 
+SFX EB 0 dable [^aeio][aeiou]d 
+SFX EB 0 fable [^aeio][aeiou]f 
+SFX EB 0 gable [^aeio][aeiou]g 
+SFX EB 0 kable [^aeio][aeiou]k 
+SFX EB 0 lable [^aeio][aeiou]l 
+SFX EB 0 mable [^aeio][aeiou]m 
+SFX EB 0 nable [^aeio][aeiou]n 
+SFX EB 0 pable [^aeio][aeiou]p 
+SFX EB 0 rable [^aeio][aeiou]r 
+SFX EB 0 sable [^aeio][aeiou]s 
+SFX EB 0 table [^aeio][aeiou]t 
+SFX EB 0 vable [^aeio][aeiou]v 
+SFX EB 0 zable [^aeio][aeiou]z 
+SFX EB 0 able [aeio][aeiou][bcdfgklmnprstvz] 
+SFX EB 0 able [^aeiou][bcdfgklmnprstvz] 
+SFX EB y iable [^aeiou]y 
+SFX EB 0 able [aeiou]y 
+SFX EB 0 able [^ebcdfgklmnprstvzy] 
+SFX EB e ability [^acegilotu]e 
+SFX EB 0 ability [acegilou]e 
+SFX EB te bility ate 
+SFX EB e ability [^a]te 
+SFX EB 0 bability [^aeio][aeiou]b 
+SFX EB 0 kability [^aeio][aeiou]c 
+SFX EB 0 dability [^aeio][aeiou]d 
+SFX EB 0 fability [^aeio][aeiou]f 
+SFX EB 0 gability [^aeio][aeiou]g 
+SFX EB 0 kability [^aeio][aeiou]k 
+SFX EB 0 lability [^aeio][aeiou]l 
+SFX EB 0 mability [^aeio][aeiou]m 
+SFX EB 0 nability [^aeio][aeiou]n 
+SFX EB 0 pability [^aeio][aeiou]p 
+SFX EB 0 rability [^aeio][aeiou]r 
+SFX EB 0 sability [^aeio][aeiou]s 
+SFX EB 0 tability [^aeio][aeiou]t 
+SFX EB 0 vability [^aeio][aeiou]v 
+SFX EB 0 zability [^aeio][aeiou]z 
+SFX EB 0 ability [aeio][aeiou][bcdfgklmnprstvz] 
+SFX EB 0 ability [^aeiou][bcdfgklmnprstvz] 
+SFX EB y iability [^aeiou]y 
+SFX EB 0 ability [aeiou]y 
+SFX EB 0 ability [^ebcdfgklmnprstvzy] 
+SFX E7 Y 9
+SFX E7 e able [acegilou]e 
+SFX E7 0 able [^acegilou]e 
+SFX E7 0 kable [^aeio][aeiou]c 
+SFX E7 0 lable [^aeio][aeiou]l 
+SFX E7 0 able [aeio][aeiou][cl] 
+SFX E7 0 able [^aeiou][cl] 
+SFX E7 y iable [^aeiou]y 
+SFX E7 0 able [aeiou]y 
+SFX E7 0 able [^cely] 
+SFX Eg Y 9
+SFX Eg e ability [^acegilou]e 
+SFX Eg 0 ability [acegilou]e 
+SFX Eg 0 kability [^aeio][aeiou]c 
+SFX Eg 0 lability [^aeio][aeiou]l 
+SFX Eg 0 ability [aeio][aeiou][cl] 
+SFX Eg 0 ability [^aeiou][cl] 
+SFX Eg y iability [^aeiou]y 
+SFX Eg 0 ability [aeiou]y 
+SFX Eg 0 ability [^cely] 
+SFX El Y 9
+SFX El e ably [^acegilou]e 
+SFX El 0 ably [acegilou]e 
+SFX El 0 kably [^aeio][aeiou]c 
+SFX El 0 lably [^aeio][aeiou]l 
+SFX El 0 ably [aeio][aeiou][cl] 
+SFX El 0 ably [^aeiou][cl] 
+SFX El y iably [^aeiou]y 
+SFX El 0 ably [aeiou]y 
+SFX El 0 ably [^cely] 
+SFX Eb Y 3
+SFX Eb e ible [^aeiou]e 
+SFX Eb 0 ible [aeiou]e 
+SFX Eb 0 ible [^e] 
+SFX EL Y 12
+SFX EL 0 ament m 
+SFX EL y iment [^aeiou]y 
+SFX EL 0 ment [aeiou]y 
+SFX EL 0 ment [^my] 
+SFX EL 0 aments m 
+SFX EL y iments [^aeiou]y 
+SFX EL 0 ments [aeiou]y 
+SFX EL 0 ments [^my] 
+SFX EL 0 ament's m 
+SFX EL y iment's [^aeiou]y 
+SFX EL 0 ment's [aeiou]y 
+SFX EL 0 ment's [^my] 
+SFX EZ Y 22
+SFX EZ e y [^aeiouy]e 
+SFX EZ 0 y [aeiouy]e 
+SFX EZ 0 ey [aiouy] 
+SFX EZ 0 by [^aeio][aeiou]b 
+SFX EZ 0 ky [^aeio][aeiou]c 
+SFX EZ 0 dy [^aeio][aeiou]d 
+SFX EZ 0 fy [^aeio][aeiou]f 
+SFX EZ 0 gy [^aeio][aeiou]g 
+SFX EZ 0 ky [^aeio][aeiou]k 
+SFX EZ 0 ly [^aeio][aeiou]l 
+SFX EZ 0 my [^aeio][aeiou]m 
+SFX EZ 0 ny [^aeio][aiou]n 
+SFX EZ 0 py [^aeio][aeiou]p 
+SFX EZ 0 ry [^aeio][aiou]r 
+SFX EZ 0 sy [^aeio][aeiou]s 
+SFX EZ 0 ty [^aeio][aiou]t 
+SFX EZ 0 vy [^aeio][aeiou]v 
+SFX EZ 0 zy [^aeio][aeiou]z 
+SFX EZ 0 y [^aeio]e[nrt] 
+SFX EZ 0 y [aeio][aeiou][bcdfgklmnprstvz] 
+SFX EZ 0 y [^aeiou][bcdfgklmnprstvz] 
+SFX EZ 0 y [^aebcdfgiklmnoprstuvyz] 
+SFX E2 Y 21
+SFX E2 e iness [^aeiouy]e 
+SFX E2 0 iness [aeiouy]e 
+SFX E2 0 biness [^aeio][aeiou]b 
+SFX E2 0 kiness [^aeio][aeiou]c 
+SFX E2 0 diness [^aeio][aeiou]d 
+SFX E2 0 finess [^aeio][aeiou]f 
+SFX E2 0 giness [^aeio][aeiou]g 
+SFX E2 0 kiness [^aeio][aeiou]k 
+SFX E2 0 liness [^aeio][aeiou]l 
+SFX E2 0 miness [^aeio][aeiou]m 
+SFX E2 0 niness [^aeio][aiou]n 
+SFX E2 0 piness [^aeio][aeiou]p 
+SFX E2 0 riness [^aeio][aiou]r 
+SFX E2 0 siness [^aeio][aeiou]s 
+SFX E2 0 tiness [^aeio][aiou]t 
+SFX E2 0 viness [^aeio][aeiou]v 
+SFX E2 0 ziness [^aeio][aeiou]z 
+SFX E2 0 iness [^aeio]e[nrt] 
+SFX E2 0 iness [aeio][aeiou][bcdfgklmnprstvz] 
+SFX E2 0 iness [^aeiou][bcdfgklmnprstvz] 
+SFX E2 0 iness [^ebcdfgklmnprstvz] 
+SFX Ez Y 24
+SFX Ez e ily [^aeiouy]e 
+SFX Ez 0 ily [aeiouy]e 
+SFX Ez 0 ily [aiou]y 
+SFX Ez ey ily ey 
+SFX Ez y ily [^aeiou]y 
+SFX Ez 0 bily [^aeio][aeiou]b 
+SFX Ez 0 kily [^aeio][aeiou]c 
+SFX Ez 0 dily [^aeio][aeiou]d 
+SFX Ez 0 fily [^aeio][aeiou]f 
+SFX Ez 0 gily [^aeio][aeiou]g 
+SFX Ez 0 kily [^aeio][aeiou]k 
+SFX Ez 0 lily [^aeio][aeiou]l 
+SFX Ez 0 mily [^aeio][aeiou]m 
+SFX Ez 0 nily [^aeio][aiou]n 
+SFX Ez 0 pily [^aeio][aeiou]p 
+SFX Ez 0 rily [^aeio][aiou]r 
+SFX Ez 0 sily [^aeio][aeiou]s 
+SFX Ez 0 tily [^aeio][aiou]t 
+SFX Ez 0 vily [^aeio][aeiou]v 
+SFX Ez 0 zily [^aeio][aeiou]z 
+SFX Ez 0 ily [^aeio]e[nrt] 
+SFX Ez 0 ily [aeio][aeiou][bcdfgklmnprstvyz] 
+SFX Ez 0 ily [^aeiou][bcdfgklmnprstvyz] 
+SFX Ez 0 ily [^ebcdfgklmnprstvyz] 
+SFX Ey Y 15
+SFX Ey e ory te 
+SFX Ey e atory [mr]e 
+SFX Ey e ary se 
+SFX Ey 0 ry [^mrst]e 
+SFX Ey 0 ory [^aeous]t 
+SFX Ey 0 ry [aeous]t 
+SFX Ey 0 ery h 
+SFX Ey 0 atory [^i]m 
+SFX Ey im matory im 
+SFX Ey 0 ory s 
+SFX Ey 0 ary ion 
+SFX Ey 0 ry [^i]on 
+SFX Ey 0 nery [aiu]n 
+SFX Ey 0 ry [^aiou]n 
+SFX Ey 0 ry [^ehmstn] 
+SFX EO Y 12
+SFX EO 0 l a 
+SFX EO e al [^bcgv]e 
+SFX EO e ial [bcgv]e 
+SFX EO 0 ial [bcrx] 
+SFX EO um al um 
+SFX EO 0 al [^u]m 
+SFX EO y al ty 
+SFX EO y ial [^t]y 
+SFX EO 0 ual [px]t 
+SFX EO 0 tal [iu]t 
+SFX EO 0 al [^ipux]t 
+SFX EO 0 al [^aebcrtxmy] 
+SFX Eo Y 12
+SFX Eo 0 lly a 
+SFX Eo e ally [^bcgv]e 
+SFX Eo e ially [bcgv]e 
+SFX Eo 0 ially [bcrx] 
+SFX Eo um ally um 
+SFX Eo 0 ally [^u]m 
+SFX Eo y ally ty 
+SFX Eo y ially [^t]y 
+SFX Eo 0 ually [px]t 
+SFX Eo 0 tally [iu]t 
+SFX Eo 0 ally [^ipux]t 
+SFX Eo 0 ally [^aebcrtxmy] 
+SFX EW Y 21
+SFX EW ce tific ce 
+SFX EW e atic me 
+SFX EW se tic se 
+SFX EW le ic ble 
+SFX EW e ic [^b]le 
+SFX EW e ic [^clms]e 
+SFX EW 0 lic [ay]l 
+SFX EW 0 ic [^ay]l 
+SFX EW us ic us 
+SFX EW 0 tic [^u]s 
+SFX EW er ric er 
+SFX EW 0 ic [^e]r 
+SFX EW 0 atic [aeiou]m 
+SFX EW 0 ic [^aeiou]m 
+SFX EW 0 tic ma 
+SFX EW a ic [^m]a 
+SFX EW y etic thy 
+SFX EW y ic [^t]hy 
+SFX EW y tic sy 
+SFX EW y ic [^hs]y 
+SFX EW 0 ic [^aelmrsy] 
+SFX Ew Y 9
+SFX Ew e ical e 
+SFX Ew er rical er 
+SFX Ew 0 ical [^e]r 
+SFX Ew 0 atical [aeiou]m 
+SFX Ew 0 ical [^aeiou]m 
+SFX Ew 0 tical ma 
+SFX Ew a ical [^m]a 
+SFX Ew y ical y 
+SFX Ew 0 ical [^aemry] 
+SFX E1 Y 9
+SFX E1 e ically e 
+SFX E1 er rically er 
+SFX E1 0 ically [^e]r 
+SFX E1 0 atically [aeiou]m 
+SFX E1 0 ically [^aeiou]m 
+SFX E1 0 tically ma 
+SFX E1 a ically [^m]a 
+SFX E1 y ically y 
+SFX E1 0 ically [^aemry] 
+SFX E3 Y 21
+SFX E3 e ist [^aceiou]e 
+SFX E3 ce tist ce 
+SFX E3 0 ist [aeiou]e 
+SFX E3 y ist [^aeioubp]y 
+SFX E3 0 ist [aeioubp]y 
+SFX E3 o ist o 
+SFX E3 0 ists [^eoy] 
+SFX E3 e ists [^aceiou]e 
+SFX E3 ce tists ce 
+SFX E3 0 ists [aeiou]e 
+SFX E3 y ists [^aeioubp]y 
+SFX E3 0 ists [aeioubp]y 
+SFX E3 o ists o 
+SFX E3 0 ists [^eoy] 
+SFX E3 e ist's [^aceiou]e 
+SFX E3 ce tist's ce 
+SFX E3 0 ist's [aeiou]e 
+SFX E3 y ist's [^aeioubp]y 
+SFX E3 0 ist's [aeioubp]y 
+SFX E3 o ist's o 
+SFX E3 0 ist's [^eoy] 
+
+
+#
+# german S/PFXes
+#
+
+# this is the affix file of the de_DE Hunspell dictionary
+# derived from the igerman98 dictionary
+#
+# Version: 20101229 (build 20101229)
+#
+# Copyright (C) 1998-2010 Bjoern Jacke <bjoern@j3e.de>
+#
+# License: GPLv2, GPLv3 or OASIS distribution license agreement
+# There should be a copy of both of this licenses included
+# with every distribution of this dictionary. Modified
+# versions using the GPL may only include the GPL
+
+PFX DU Y 1
+PFX DU 0 un       .
+
+PFX DV Y 1
+PFX DV 0 ver      .
+
+SFX DF Y 35
+SFX DF 0 nen        in
+SFX DF e in         e
+SFX DF e innen      e
+SFX DF 0 in         [^i]n
+SFX DF 0 innen      [^i]n
+SFX DF 0 in         [^enr]
+SFX DF 0 innen      [^enr]
+SFX DF 0 in         [^e]r
+SFX DF 0 innen      [^e]r
+SFX DF 0 in         [^r]er
+SFX DF 0 innen      [^r]er
+SFX DF 0 in         [^e]rer
+SFX DF 0 innen      [^e]rer
+SFX DF 0 in         ierer
+SFX DF 0 innen      ierer
+SFX DF er in         [^i]erer
+SFX DF er innen      [^i]erer
+SFX DF in In         in
+SFX DF in Innen      in
+SFX DF e In         e
+SFX DF e Innen      e
+SFX DF 0 In         [^i]n
+SFX DF 0 Innen      [^i]n
+SFX DF 0 In         [^en]
+SFX DF 0 Innen      [^en]
+SFX DF 0 In         [^e]r
+SFX DF 0 Innen      [^e]r
+SFX DF 0 In         [^r]er
+SFX DF 0 Innen      [^r]er
+SFX DF 0 In         [^e]rer
+SFX DF 0 Innen      [^e]rer
+SFX DF 0 In         ierer
+SFX DF 0 Innen      ierer
+SFX DF er In         [^i]erer
+SFX DF er Innen      [^i]erer
+#SFX DF en innen        en
+#SFX DF en Innen        en
+
+
+SFX DL N 12
+SFX DL 0 tlich      n
+SFX DL 0 tliche     n
+SFX DL 0 tlicher    n
+SFX DL 0 tliches    n
+SFX DL 0 tlichem    n
+SFX DL 0 tlichen    n
+SFX DL 0 lich       [^n]
+SFX DL 0 liche      [^n]
+SFX DL 0 licher     [^n]
+SFX DL 0 liches     [^n]
+SFX DL 0 lichem     [^n]
+SFX DL 0 lichen     [^n]
+
+
+#SFX DH N 2
+#SFX DH 0 heit       .
+#SFX DH 0 heiten     .
+
+
+#SFX DK N 2
+#SFX DK 0 keit       .
+#SFX DK 0 keiten     .
+
+
+SFX DM N 10
+SFX DM 0 chen       [^se]
+SFX DM 0 chens      [^se]
+SFX DM ass ässchen    ass
+SFX DM ass ässchens   ass
+SFX DM oss össchen    oss
+SFX DM oss össchens   oss
+SFX DM uss üsschen    uss
+SFX DM uss üsschens   uss
+SFX DM e chen       e
+SFX DM e chens      e
+
+
+SFX DA Y 46
+SFX DA 0 r          e
+SFX DA 0 n          e
+SFX DA 0 m          e
+SFX DA 0 s          e
+SFX DA 0 e          [^elr]
+SFX DA 0 er         [^elr]
+SFX DA 0 en         [^elr]
+SFX DA 0 em         [^elr]
+SFX DA 0 es         [^elr]
+SFX DA 0 e          [^e][rl]
+SFX DA 0 er         [^e][rl]
+SFX DA 0 en         [^e][rl]
+SFX DA 0 em         [^e][rl]
+SFX DA 0 es         [^e][rl]
+SFX DA 0 e          [^u]er
+SFX DA 0 er         [^u]er
+SFX DA 0 en         [^u]er
+SFX DA 0 em         [^u]er
+SFX DA 0 es         [^u]er
+SFX DA er re         uer
+SFX DA er rer        uer
+SFX DA er ren        uer
+SFX DA er rem        uer
+SFX DA er res        uer
+SFX DA 0 e          [eil]el
+SFX DA 0 er         [eil]el
+SFX DA 0 en         [eil]el
+SFX DA 0 em         [eil]el
+SFX DA 0 es         [eil]el
+SFX DA el le         [^eil]el
+SFX DA el ler        [^eil]el
+SFX DA el len        [^eil]el
+SFX DA el lem        [^eil]el
+SFX DA el les        [^eil]el
+SFX DA lig elig       [^aeiouhlräüö]lig
+SFX DA lig elige      [^aeiouhlräüö]lig
+SFX DA lig eliger     [^aeiouhlräüö]lig
+SFX DA lig eligen     [^aeiouhlräüö]lig
+SFX DA lig eligem     [^aeiouhlräüö]lig
+SFX DA lig eliges     [^aeiouhlräüö]lig
+SFX DA erig rig        [^hi]erig
+SFX DA erig rige       [^hi]erig
+SFX DA erig riger      [^hi]erig
+SFX DA erig rigen      [^hi]erig
+SFX DA erig rigem      [^hi]erig
+SFX DA erig riges      [^hi]erig
+
+
+SFX DC Y 88
+SFX DC 0 ere        [^elr]
+SFX DC 0 erer       [^elr]
+SFX DC 0 eren       [^elr]
+SFX DC 0 erem       [^elr]
+SFX DC 0 eres       [^elr]
+SFX DC 0 re         e
+SFX DC 0 rer        e
+SFX DC 0 ren        e
+SFX DC 0 rem        e
+SFX DC 0 res        e
+SFX DC 0 ere        [^e][lr]
+SFX DC 0 erer       [^e][lr]
+SFX DC 0 eren       [^e][lr]
+SFX DC 0 erem       [^e][lr]
+SFX DC 0 eres       [^e][lr]
+SFX DC el lere       el
+SFX DC el lerer      el
+SFX DC el leren      el
+SFX DC el lerem      el
+SFX DC el leres      el
+SFX DC er rere       uer
+SFX DC er rerer      uer
+SFX DC er reren      uer
+SFX DC er rerem      uer
+SFX DC er reres      uer
+SFX DC 0 ere        [^u]er
+SFX DC 0 erer       [^u]er
+SFX DC 0 eren       [^u]er
+SFX DC 0 erem       [^u]er
+SFX DC 0 eres       [^u]er
+SFX DC lig eligere    [^aeiouhlräüö]lig
+SFX DC lig eligerer   [^aeiouhlräüö]lig
+SFX DC lig eligeren   [^aeiouhlräüö]lig
+SFX DC lig eligerem   [^aeiouhlräüö]lig
+SFX DC lig eligeres   [^aeiouhlräüö]lig
+SFX DC erig rigere     [^hi]erig
+SFX DC erig rigerer    [^hi]erig
+SFX DC erig rigeren    [^hi]erig
+SFX DC erig rigerem    [^hi]erig
+SFX DC erig rigeres    [^hi]erig
+SFX DC 0 est        [kßsuxz]
+SFX DC 0 este       [kßsuxz]
+SFX DC 0 ester      [kßsuxz]
+SFX DC 0 esten      [kßsuxz]
+SFX DC 0 estem      [kßsuxz]
+SFX DC 0 estes      [kßsuxz]
+SFX DC 0 st         et
+SFX DC 0 ste        et
+SFX DC 0 ster       et
+SFX DC 0 sten       et
+SFX DC 0 stem       et
+SFX DC 0 stes       et
+SFX DC 0 est        [^e]t
+SFX DC 0 este       [^e]t
+SFX DC 0 ester      [^e]t
+SFX DC 0 esten      [^e]t
+SFX DC 0 estem      [^e]t
+SFX DC 0 estes      [^e]t
+SFX DC 0 st         [^kßstxz]
+SFX DC 0 ste        [^kßstxz]
+SFX DC 0 ster       [^kßstxz]
+SFX DC 0 sten       [^kßstxz]
+SFX DC 0 stem       [^kßstxz]
+SFX DC 0 stes       [^kßstxz]
+SFX DC 0 st         nd
+SFX DC 0 ste        nd
+SFX DC 0 ster       nd
+SFX DC 0 sten       nd
+SFX DC 0 stem       nd
+SFX DC 0 stes       nd
+SFX DC 0 est        [^n]d
+SFX DC 0 este       [^n]d
+SFX DC 0 ester      [^n]d
+SFX DC 0 esten      [^n]d
+SFX DC 0 estem      [^n]d
+SFX DC 0 estes      [^n]d
+SFX DC lig eligst     [^aeiouhlräüö]lig
+SFX DC lig eligste    [^aeiouhlräüö]lig
+SFX DC lig eligster   [^aeiouhlräüö]lig
+SFX DC lig eligsten   [^aeiouhlräüö]lig
+SFX DC lig eligstem   [^aeiouhlräüö]lig
+SFX DC lig eligstes   [^aeiouhlräüö]lig
+SFX DC erig rigst      [^hi]erig
+SFX DC erig rigste     [^hi]erig
+SFX DC erig rigster    [^hi]erig
+SFX DC erig rigsten    [^hi]erig
+SFX DC erig rigstem    [^hi]erig
+SFX DC erig rigstes    [^hi]erig
+
+
+SFX DE Y 1
+SFX DE 0 e          .
+
+
+SFX Df Y 4
+SFX Df ph f          ph
+SFX Df ph fen        ph
+SFX Df phie fie        phie
+SFX Df phie fien       phie
+
+
+SFX DN Y 1
+SFX DN 0 n          .
+
+
+SFX DP Y 1
+SFX DP 0 en         .
+
+
+SFX Dp Y 26
+SFX Dp auf äufe      auf
+SFX Dp auf äufen     auf
+SFX Dp aus äuser     [hH]aus
+SFX Dp aus äusern    [hH]aus
+SFX Dp arkt ärkte     [mM]arkt
+SFX Dp arkt ärkten    [mM]arkt
+SFX Dp ang änge      ang
+SFX Dp ang ängen     ang
+SFX Dp uß üße       uß
+SFX Dp uß üßen      uß
+SFX Dp oß öße       oß
+SFX Dp oß ößen      oß
+SFX Dp aum äume      aum
+SFX Dp aum äumen     aum
+SFX Dp ag äge       ag
+SFX Dp ag ägen      ag
+SFX Dp ug üge       ug
+SFX Dp ug ügen      ug
+SFX Dp all älle      all
+SFX Dp all ällen     all
+SFX Dp ass ässe      ass
+SFX Dp ass ässen     ass
+SFX Dp uss üsse      uss
+SFX Dp uss üssen     uss
+SFX Dp oss össe      oss
+SFX Dp oss össen     oss
+# last ...oss rules are for swiss de_CH only - but do not affect de_DE
+
+
+SFX DR Y 3
+SFX DR 0 er         [^e]
+SFX DR 0 ern        [^e]
+SFX DR 0 r          e
+
+
+SFX DS Y 1
+SFX DS 0 s          .
+
+
+SFX Dq Y 2
+SFX Dq 0 se        s
+SFX Dq 0 sen       s
+
+
+SFX DQ Y 1
+SFX DQ 0 ses       s
+#SFX DQ 0 se        s
+#SFX DQ 0 sen       s
+
+
+SFX DT Y 1
+SFX DT 0 es         .
+
+
+SFX DJ Y 12
+SFX DJ n ung        [bgkpßsz]eln
+SFX DJ n ungen      [bgkpßsz]eln
+SFX DJ eln lung       eln
+SFX DJ n ung        ern
+SFX DJ en ung        en
+SFX DJ eln lungen     eln
+SFX DJ n ungen      ern
+SFX DJ en ungen      en
+SFX DJ 0 ung        [^n]
+SFX DJ 0 ungen      [^n]
+SFX DJ el lung       el
+SFX DJ el lungen     el
+
+
+SFX DB N 12
+SFX DB n bar        e[lr]n
+SFX DB n bare       e[lr]n
+SFX DB n baren      e[lr]n
+SFX DB n barer      e[lr]n
+SFX DB n bares      e[lr]n
+SFX DB n barem      e[lr]n
+SFX DB en bar        en
+SFX DB en bare       en
+SFX DB en baren      en
+SFX DB en barer      en
+SFX DB en bares      en
+SFX DB en barem      en
+
+
+SFX DD Y 6
+SFX DD 0 d          n
+SFX DD 0 de         n
+SFX DD 0 den        n
+SFX DD 0 der        n
+SFX DD 0 des        n
+SFX DD 0 dem        n
+
+
+
+SFX DW Y 5
+SFX DW en 0          en
+SFX DW n 0          [^e]n
+SFX DW st 0          [^s]st
+SFX DW t 0          sst
+SFX DW t 0          [^s]t
+
+
+SFX DI Y 16
+SFX DI n 0          en
+SFX DI eln le         eln
+SFX DI n e          eln
+SFX DI ern re         ern
+SFX DI n e          ern
+SFX DI n t          e[lr]n
+SFX DI n t          [dt]en
+SFX DI en t          [^dimnt]en
+SFX DI en t          eien
+SFX DI n t          [^e]ien
+SFX DI n t          chnen
+SFX DI en t          [^c]h[mn]en
+SFX DI n t          [^aäehilmnoöuür][mn]en
+SFX DI en t          [aäeilmnoöuür][mn]en
+SFX DI n e          un
+SFX DI n t          un
+
+
+SFX DX Y 26
+SFX DX n t          e[lr]n
+SFX DX n t          [dtw]en
+SFX DX en t          eien
+SFX DX n t          [^e]ien
+SFX DX en t          [^ditmnw]en
+SFX DX n t          chnen
+SFX DX en t          [^c]h[mn]en
+SFX DX n t          [^aäehilmnoöuür][mn]en
+SFX DX en t          [aäeilmnoöuür][mn]en
+SFX DX n t          un
+SFX DX st 0          tst
+SFX DX n st         e[lr]n
+SFX DX n st         [dtw]en
+SFX DX en st         [^dimnßstwzx]en
+SFX DX en st         eien
+SFX DX n st         [^e]ien
+SFX DX n st         chnen
+SFX DX en st         [^c]h[mn]en
+SFX DX n st         [^aäehilmnoöuür][mn]en
+SFX DX en st         [aäeilmnoöuür][mn]en
+SFX DX n st         un
+SFX DX n st         [ßsxz]en
+SFX DX n st         ssen
+SFX DX n st         schen
+SFX DX t st         [^sz]t
+SFX DX t est        zt
+
+
+SFX DY Y 36
+SFX DY n te         e[lr]n
+SFX DY n te         [dtw]en
+SFX DY en te         [^dimntw]en
+SFX DY en te         eien
+SFX DY n te         [^e]ien
+SFX DY n te         chnen
+SFX DY en te         [^c]h[mn]en
+SFX DY n te         [^aäehilmnoöuür][mn]en
+SFX DY en te         [aäeilmnoöuür][mn]en
+SFX DY n test       e[lr]n
+SFX DY n test       [dtw]en
+SFX DY en test       [^dimntw]en
+SFX DY en test       eien
+SFX DY n test       [^e]ien
+SFX DY n test       chnen
+SFX DY en test       [^c]h[mn]en
+SFX DY n test       [^aäehilmnoöuür][mn]en
+SFX DY en test       [aäeilmnoöuür][mn]en
+SFX DY n tet        e[lr]n
+SFX DY n tet        [dtw]en
+SFX DY en tet        [^dimntw]en
+SFX DY en tet        eien
+SFX DY n tet        [^e]ien
+SFX DY n tet        chnen
+SFX DY en tet        [^c]h[mn]en
+SFX DY n tet        [^aäehilmnoöuür][mn]en
+SFX DY en tet        [aäeilmnoöuür][mn]en
+SFX DY n ten        e[lr]n
+SFX DY n ten        [dtw]en
+SFX DY en ten        [^dimntw]en
+SFX DY en ten        eien
+SFX DY n ten        [^e]ien
+SFX DY n ten        chnen
+SFX DY en ten        [^c]h[mn]en
+SFX DY n ten        [^aäehilmnoöuür][mn]en
+SFX DY en ten        [aäeilmnoöuür][mn]en
+
+
+SFX DZ Y 15
+SFX DZ 0 st         [^hßsz]
+SFX DZ 0 st         [^c]h
+SFX DZ 0 st         [^s]ch
+SFX DZ 0 est        [dfkstz]
+SFX DZ 0 est        ch
+SFX DZ 0 est        [au]ß
+SFX DZ 0 est        ieß
+SFX DZ 0 est        [io]ss
+SFX DZ 0 t          [^dt]
+SFX DZ 0 et         [dt]
+SFX DZ 0 n          e
+SFX DZ 0 en         ie
+SFX DZ 0 en         [^e]
+SFX DZ 0 est        iess
+SFX DZ 0 est        [au]ss
+# last two ...ss rules only used for swiss de_CH - but de_DE is unaffected
+
+
+SFX DO Y 21
+SFX DO n tes        e[lr]n
+SFX DO n tes        [dtw]en
+SFX DO en tes        [^dmntw]en
+SFX DO n tes        chnen
+SFX DO en tes        [^c]h[mn]en
+SFX DO n tes        [^aäehilmnoöuür][mn]en
+SFX DO en tes        [aäeilmnoöuür][mn]en
+SFX DO n ter        e[lr]n
+SFX DO n ter        [dtw]en
+SFX DO en ter        [^dmntw]en
+SFX DO n ter        chnen
+SFX DO en ter        [^c]h[mn]en
+SFX DO n ter        [^aäehilmnoöuür][mn]en
+SFX DO en ter        [aäeilmnoöuür][mn]en
+SFX DO n tem        e[lr]n
+SFX DO n tem        [dtw]en
+SFX DO en tem        [^dmntw]en
+SFX DO n tem        chnen
+SFX DO en tem        [^c]h[mn]en
+SFX DO n tem        [^aäehilmnoöuür][mn]en
+SFX DO en tem        [aäeilmnoöuür][mn]en
+
+
+# this one will allow "-Eltern" - Hunspell 1.1.5 bug, but CHECKSHARPS obsoletes LANG de_DE
+#LANG de_DE
+CHECKSHARPS
+
+
+COMPOUNDBEGIN Dx
+COMPOUNDMIDDLE Dy
+COMPOUNDEND Dz
+FORBIDDENWORD Dd
+
+# Prefixes are allowed at the beginning of compounds,
+# suffixes are allowed at the end of compounds by default:
+# (prefix)?(root)+(affix)?
+# Affixes with COMPOUNDPERMITFLAG may be inside of compounds.
+COMPOUNDPERMITFLAG Dc
+
+ONLYINCOMPOUND Do
+
+# my PSEUDOROOT h(elper) flag
+NEEDAFFIX Dh
+
+# forbid uppercase characters at compound word bounds
+# BUT I want to take care about it myself ;-)
+# CHECKCOMPOUNDCASE
+KEEPCASE Dw
+
+# Affixes  signed  with CIRCUMFIX flag may be on a word when this word also has a prefix with CIRCUMFIX flag and vice versa.
+# for decapitalizing nouns with fogemorphemes
+CIRCUMFIX Df
+
+# this one would make a separate dict entry "Denkmalsschutz" invalidate the
+# compound of "Denkmal"+"schutz". We do not want this feature here...
+# CHECKCOMPOUNDREP
+
+# make not all possible suggestions for typos of Flicken or some rare words
+NOSUGGEST Dn
+
+WORDCHARS ß-.
+
+# - setting this to 2 decreases performance by 1/10 but is needed for "öl" and "ei"
+# - setting this to 1 for handling Fuge-elements with dashes (Arbeits-) dash will 
+#   be a special word but - is handled as a affix now
+COMPOUNDMIN 2
+
+# this ones are for Duden R36 (old orthography)
+#CHECKCOMPOUNDPATTERN 2  #oldspell
+#CHECKCOMPOUNDPATTERN ee e #oldspell
+#CHECKCOMPOUNDPATTERN oo o #oldspell
+# also need oo o
+
+# this one needs to be flagable to be used for old orthography
+#CHECKCOMPOUNDTRIPLE
+
+
+PFX Di Y 1
+PFX Di 0 -/DcDoDyDf .
+
+SFX Dj Y 3
+SFX Dj 0 0/DxDoDc .
+SFX Dj 0 -/DzDoDcDf .
+SFX Dj 0 -/DcDz .
+
+# Female forms for compound/Compound words:
+# attention: [^e][^n] does also filter out "...er" !
+SFX Dg Y 12
+SFX Dg 0 innen/DxDyDoDc [^n]
+SFX Dg en innen/DxDyDoDc en
+SFX Dg 0 Innen/DxDyDoDc [^n]
+SFX Dg en Innen/DxDyDoDc en
+SFX Dg 0 innen/DxDyDoDcDf [^n]
+SFX Dg en innen/DxDyDoDcDf en
+SFX Dg 0 Innen/DxDyDoDcDf [^n]
+SFX Dg en Innen/DxDyDoDcDf en
+SFX Dg 0 innen-/DcDz [^n]
+SFX Dg en innen-/DcDz en
+SFX Dg 0 Innen-/DcDz [^n]
+SFX Dg en Innen-/DcDz en
+
+
+PFX Dk Y 2
+PFX Dk 0 -/DcDoDxDf .
+PFX Dk 0 0/DcDoDy .
+
+SFX De Y 2
+SFX De 0 0/DyDoDc .
+SFX De 0 -/DzDc .
+
+# for Uppercased end-words to prepend - and lowercase: (Tier/EPSm) (EX: Bettbezüge und *-laken*)
+# AND
+# for lowercased end-words to prepend - and re-uppercase : (tier/EPSozm) (EX: Arbeits*-Tier*)
+#PFX Dm A -a/DcDo A
+#PFX Dm a -/ a
+PFX Dm Y 58
+PFX Dm A -a A
+PFX Dm B -b B
+PFX Dm C -c C
+PFX Dm D -d D
+PFX Dm E -e E
+PFX Dm F -f F
+PFX Dm G -g G
+PFX Dm H -h H
+PFX Dm I -i I
+PFX Dm J -j J
+PFX Dm K -k K
+PFX Dm L -l L
+PFX Dm M -m M
+PFX Dm N -n N
+PFX Dm O -o O
+PFX Dm P -p P
+PFX Dm Q -q Q
+PFX Dm R -r R
+PFX Dm S -s S
+PFX Dm T -t T
+PFX Dm U -u U
+PFX Dm V -v V
+PFX Dm W -w W
+PFX Dm X -x X
+PFX Dm Y -y Y
+PFX Dm Z -z Z
+PFX Dm Ä -ä Ä
+PFX Dm Ö -ö Ö
+PFX Dm Ü -ü Ü
+PFX Dm a -A/DcDo a
+PFX Dm b -B/DcDo b
+PFX Dm c -C/DcDo c
+PFX Dm d -D/DcDo d
+PFX Dm e -E/DcDo e
+PFX Dm f -F/DcDo f
+PFX Dm g -G/DcDo g
+PFX Dm h -H/DcDo h
+PFX Dm i -I/DcDo i
+PFX Dm j -J/DcDo j
+PFX Dm k -K/DcDo k
+PFX Dm l -L/DcDo l
+PFX Dm m -M/DcDo m
+PFX Dm n -N/DcDo n
+PFX Dm o -O/DcDo o
+PFX Dm p -P/DcDo p
+PFX Dm q -Q/DcDo q
+PFX Dm r -R/DcDo r
+PFX Dm s -S/DcDo s
+PFX Dm t -T/DcDo t
+PFX Dm u -U/DcDo u
+PFX Dm v -V/DcDo v
+PFX Dm w -W/DcDo w
+PFX Dm x -X/DcDo x
+PFX Dm y -Y/DcDo y
+PFX Dm z -Z/DcDo z
+PFX Dm ä -Ä/DcDo ä
+PFX Dm ö -Ö/DcDo ö
+PFX Dm ü -Ü/DcDo ü
+
+
+# Decapitalizing: (not used ATM... )
+# /co(f) : compound permit, in coumpount only, (decapitalizing with fogemorphemes)
+#PFX Dl Y 29
+#PFX Dl A a/DcDo A
+#PFX Dl Ä ä/DcDo Ä
+#PFX Dl B b/DcDo B
+#PFX Dl C c/DcDo C
+#PFX Dl D d/DcDo D
+#PFX Dl E e/DcDo E
+#PFX Dl F f/DcDo F
+#PFX Dl G g/DcDo G
+#PFX Dl H h/DcDo H
+#PFX Dl I i/DcDo I
+#PFX Dl J j/DcDo J
+#PFX Dl K k/DcDo K
+#PFX Dl L l/DcDo L
+#PFX Dl M m/DcDo M
+#PFX Dl N n/DcDo N
+#PFX Dl O o/DcDo O
+#PFX Dl Ö ö/DcDo Ö
+#PFX Dl P p/DcDo P
+#PFX Dl Q q/DcDo Q
+#PFX Dl R r/DcDo R
+#PFX Dl S s/DcDo S
+#PFX Dl T t/DcDo T
+#PFX Dl U u/DcDo U
+#PFX Dl Ü ü/DcDo Ü
+#PFX Dl V v/DcDo V
+#PFX Dl W w/DcDo W
+#PFX Dl X x/DcDo X
+#PFX Dl Y y/DcDo Y
+#PFX Dl Z z/DcDo Z
+
+# private hunspell flags:
+# --x : not for capmain (rare words)
+
+# With "BREAK -" some wrong forms are accepted but that is needed for US-Wirtschaft etc.
+# So enabling this is the lesser evil. No perfect solution found so far...
+BREAK 2
+BREAK -
+BREAK .
+
