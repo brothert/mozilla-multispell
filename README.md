@@ -5,7 +5,7 @@ This XPI module/bundle contains a dictionary combined of standard dictionaries:
 * german (classical spelling)
 
 ## Installation
-Drag and drop the xpi file on a Firefox window or simply click the XPI in the [[./releases releases]] section and confirm the installation.
+Drag and drop the xpi file on a Firefox window or simply click the XPI in the [releases](./releases) section and confirm the installation.
 
 Alternatively open "about:addons" as a URL, click the "gear" button and choose "Install Add-on From File...".
 
